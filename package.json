@@ -1,0 +1,12 @@
+{
+  "name": "green-forms",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Cédric Pradels",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CedricPradels/green-forms"
+  },
+  "license": "ISC"
+}
